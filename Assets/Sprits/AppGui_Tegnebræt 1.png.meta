@@ -1,0 +1,735 @@
+fileFormatVersion: 2
+guid: 05126ee2e8c5bba449dd93d9c867cacb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "AppGui_Tegnebr\xE6t 1_0"
+    21300002: "AppGui_Tegnebr\xE6t 1_1"
+    21300004: "AppGui_Tegnebr\xE6t 1_2"
+    21300006: "AppGui_Tegnebr\xE6t 1_3"
+    21300008: "AppGui_Tegnebr\xE6t 1_4"
+    21300010: "AppGui_Tegnebr\xE6t 1_5"
+    21300012: "AppGui_Tegnebr\xE6t 1_6"
+    21300014: "AppGui_Tegnebr\xE6t 1_7"
+    21300016: "AppGui_Tegnebr\xE6t 1_8"
+    21300018: "AppGui_Tegnebr\xE6t 1_9"
+    21300020: "AppGui_Tegnebr\xE6t 1_10"
+    21300022: "AppGui_Tegnebr\xE6t 1_11"
+    21300024: "AppGui_Tegnebr\xE6t 1_12"
+    21300026: "AppGui_Tegnebr\xE6t 1_13"
+    21300028: "AppGui_Tegnebr\xE6t 1_14"
+    21300030: "AppGui_Tegnebr\xE6t 1_15"
+    21300032: "AppGui_Tegnebr\xE6t 1_16"
+    21300034: "AppGui_Tegnebr\xE6t 1_17"
+    21300036: "AppGui_Tegnebr\xE6t 1_18"
+    21300038: "AppGui_Tegnebr\xE6t 1_19"
+    21300040: "AppGui_Tegnebr\xE6t 1_20"
+    21300042: "AppGui_Tegnebr\xE6t 1_21"
+    21300044: "AppGui_Tegnebr\xE6t 1_22"
+    21300046: "AppGui_Tegnebr\xE6t 1_23"
+    21300048: "AppGui_Tegnebr\xE6t 1_24"
+    21300050: "AppGui_Tegnebr\xE6t 1_25"
+    21300052: "AppGui_Tegnebr\xE6t 1_26"
+    21300054: "AppGui_Tegnebr\xE6t 1_27"
+    21300056: "AppGui_Tegnebr\xE6t 1_28"
+    21300058: "AppGui_Tegnebr\xE6t 1_29"
+    21300060: "AppGui_Tegnebr\xE6t 1_30"
+    21300062: "AppGui_Tegnebr\xE6t 1_31"
+    21300064: "AppGui_Tegnebr\xE6t 1_32"
+    21300066: "AppGui_Tegnebr\xE6t 1_33"
+    21300068: "AppGui_Tegnebr\xE6t 1_34"
+    21300070: "AppGui_Tegnebr\xE6t 1_35"
+    21300072: "AppGui_Tegnebr\xE6t 1_36"
+    21300074: "AppGui_Tegnebr\xE6t 1_37"
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_0"
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 11467
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ab9560d9185ec498992a6d86c5e202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_1"
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 11002
+        width: 4170
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe5542c1485a4e4b8623b1f1f9ebdff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_2"
+      rect:
+        serializedVersion: 2
+        x: 7388
+        y: 8798
+        width: 4167
+        height: 2758
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cafe53655215a49ab619bc18bb128c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_13"
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 10237
+        width: 747
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e4476b698164844b0e79bb8ac9c6ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_14"
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 10235
+        width: 739
+        height: 738
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360763c810b506c498809dbbc0d1618c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_15"
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 10237
+        width: 739
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2d1a1f3d19e0f489ff95876690abf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_16"
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 10240
+        width: 734
+        height: 731
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5e6cf4931fcaf47a1c78e0325e21b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_17"
+      rect:
+        serializedVersion: 2
+        x: 4451
+        y: 10240
+        width: 730
+        height: 731
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a6cb8d6933c5b4f841ca5c423ceeca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_31"
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 9478
+        width: 734
+        height: 731
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ef656141fb87e4daf8004e73cca077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_32"
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 9478
+        width: 734
+        height: 731
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce288f1448224b64480795eb66bfea97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_33"
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 9478
+        width: 741
+        height: 731
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3c667f981f21f40b355dc5e8ed68ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_34"
+      rect:
+        serializedVersion: 2
+        x: 3686
+        y: 9495
+        width: 730
+        height: 697
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa8b89d8fd798f4194e734af3617092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_35"
+      rect:
+        serializedVersion: 2
+        x: 4468
+        y: 9495
+        width: 727
+        height: 697
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d56181f0150164fbe2bfaa91b4579e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_36"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 8993
+        width: 570
+        height: 570
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4806410cba19b4442b6973d505525c94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_37"
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 9464
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ccb08b4156d234982cd26231c19257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_3"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 9599
+        width: 706
+        height: 704
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2557c74ff84187a498cba864bd855482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_4"
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 10411
+        width: 1251
+        height: 1106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0888656ec12d734686cf791bb749232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_5"
+      rect:
+        serializedVersion: 2
+        x: 5268
+        y: 10244
+        width: 845
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f6f674c71c0aa49a5cd2281c3d01aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_6"
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 9465
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968f2a67fe193984397466d879bd0b9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_7"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2684
+        width: 342
+        height: 6281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3935b26fc25964c85dd0f7eaf14b0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_8"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2763
+        width: 129
+        height: 6125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb98d548551bb44c9d242b460e98d7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_9"
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 8477
+        width: 240
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982b01e1a195ed34aa1d95f341f1ca1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_10"
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 8815
+        width: 541
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e4f39779cf3464d8a7d4bf74261c3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_11"
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 8826
+        width: 547
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddd9dc4442c8624b9fb18124951545c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_12"
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 8878
+        width: 510
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d46ee96063193d4aa5b83b0eacda046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_18"
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 8065
+        width: 1323
+        height: 1320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cf6c8cc8dcabc4ab479a1b16f912d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_19"
+      rect:
+        serializedVersion: 2
+        x: 4789
+        y: 8096
+        width: 1267
+        height: 1258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc4703611a01a049a1bb338ff9261c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_20"
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 992
+        width: 542
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504b2ab071c0ad5419aee1a38d038ab1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AppGui_Tegnebr\xE6t 1_21"
+      rect:
+        serializedVersion: 2
+        x: 8550
+        y: 0
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8b535b49a518f4282eab14b18a4157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8c5e5b90df7b3d6458b2cd6b4a6dd925
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
